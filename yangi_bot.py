@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from aiohttp import web
 
 # 1. Bot Tokeningizni bu yerga qo'ying
-TOKEN = "BU_YERGA_TOKENINGIZNI_YOZING"
+TOKEN = "8680511025:AAFyIEMFOKsOBFbKzF-FWC3Z7lQHdYUuTR8"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
